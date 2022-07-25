@@ -1,0 +1,105 @@
+22/07/24 21:19:18 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:19:18 INFO test.TestPage: Path find
+22/07/24 21:19:20 INFO test.TestPage: CromeDriver Start..
+22/07/24 21:19:20 INFO test.TestPage: Start - TestPage.goToPage
+22/07/24 21:19:32 INFO test.TestPage: Start - TestPage.goToCarElements
+22/07/24 21:19:32 INFO test.TestPage: End - TestPage.goToCarElements
+22/07/24 21:19:32 INFO test.TestPage: Start - TestPage.goToWebTables
+22/07/24 21:19:32 INFO test.TestPage: End - TestPage.goToWebTables
+22/07/24 21:19:32 INFO test.TestPage: Start - TestPage.goToButtonAdd
+22/07/24 21:19:32 INFO test.TestPage: End - TestPage.goToButtonAdd
+22/07/24 21:19:32 INFO test.TestPage: Start - TestPage.goToRegisterForm
+22/07/24 21:19:33 INFO test.TestPage: End - TestPage.goToRegisterForm
+22/07/24 21:19:33 INFO test.TestPage: Start - TestPage.goToWidgets
+22/07/24 21:19:34 INFO test.TestPage: Start - TestPage.goToDatePicker
+22/07/24 21:19:35 INFO test.TestPage: End - TestPage.goToDatePicker
+22/07/24 21:19:35 INFO test.TestPage: End - TestPage.goToWidgets
+22/07/24 21:19:35 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:19:35 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:19:35 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:19:46 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:19:46 INFO test.TestPage: SUCCESSFUL EXECUTION
+22/07/24 21:19:46 INFO test.TestPage: End - TestPage.goToPage
+22/07/24 21:36:01 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:39:27 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:41:20 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:43:55 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:43:55 INFO test.TestPage: Path find
+22/07/24 21:43:57 INFO test.TestPage: CromeDriver Start..
+22/07/24 21:43:57 INFO test.TestPage: Start - TestPage.goToPage
+22/07/24 21:44:08 INFO test.TestPage: Start - TestPage.goToCarElements
+22/07/24 21:44:08 INFO test.TestPage: End - TestPage.goToCarElements
+22/07/24 21:44:08 INFO test.TestPage: Start - TestPage.goToWebTables
+22/07/24 21:44:09 INFO test.TestPage: End - TestPage.goToWebTables
+22/07/24 21:44:09 INFO test.TestPage: Start - TestPage.goToButtonAdd
+22/07/24 21:44:09 INFO test.TestPage: End - TestPage.goToButtonAdd
+22/07/24 21:44:09 INFO test.TestPage: Start - TestPage.goToRegisterForm
+22/07/24 21:44:10 INFO test.TestPage: End - TestPage.goToRegisterForm
+22/07/24 21:44:10 INFO test.TestPage: Start - TestPage.goToWidgets
+22/07/24 21:44:10 INFO test.TestPage: Start - TestPage.goToDatePicker
+22/07/24 21:44:11 INFO test.TestPage: End - TestPage.goToDatePicker
+22/07/24 21:44:11 INFO test.TestPage: End - TestPage.goToWidgets
+22/07/24 21:44:11 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:44:11 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:44:11 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:44:22 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:44:22 INFO test.TestPage: 
+22/07/24 21:44:22 INFO test.TestPage: End - TestPage.goToPage
+22/07/24 21:47:17 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:47:17 INFO test.TestPage: Path find
+22/07/24 21:47:19 INFO test.TestPage: CromeDriver Start..
+22/07/24 21:47:19 INFO test.TestPage: Start - TestPage.goToPage
+22/07/24 21:47:29 INFO test.TestPage: Start - TestPage.goToCarElements
+22/07/24 21:47:29 INFO test.TestPage: End - TestPage.goToCarElements
+22/07/24 21:47:29 INFO test.TestPage: Start - TestPage.goToWebTables
+22/07/24 21:47:29 INFO test.TestPage: End - TestPage.goToWebTables
+22/07/24 21:47:29 INFO test.TestPage: Start - TestPage.goToButtonAdd
+22/07/24 21:47:29 INFO test.TestPage: End - TestPage.goToButtonAdd
+22/07/24 21:47:29 INFO test.TestPage: Start - TestPage.goToRegisterForm
+22/07/24 21:47:30 INFO test.TestPage: End - TestPage.goToRegisterForm
+22/07/24 21:47:30 INFO test.TestPage: Start - TestPage.goToWidgets
+22/07/24 21:47:31 INFO test.TestPage: Start - TestPage.goToDatePicker
+22/07/24 21:47:32 INFO test.TestPage: End - TestPage.goToDatePicker
+22/07/24 21:47:32 INFO test.TestPage: End - TestPage.goToWidgets
+22/07/24 21:47:32 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:47:32 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:47:32 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:47:46 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:47:46 INFO test.TestPage: 
+22/07/24 21:47:46 INFO test.TestPage: End - TestPage.goToPage
+22/07/24 21:49:15 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:49:15 INFO test.TestPage: Path find
+22/07/24 21:49:17 INFO test.TestPage: CromeDriver Start..
+22/07/24 21:49:17 INFO test.TestPage: Start - TestPage.goToPage
+22/07/24 21:49:27 INFO test.TestPage: Start - TestPage.goToCarElements
+22/07/24 21:49:27 INFO test.TestPage: End - TestPage.goToCarElements
+22/07/24 21:49:27 INFO test.TestPage: Start - TestPage.goToWebTables
+22/07/24 21:49:27 INFO test.TestPage: End - TestPage.goToWebTables
+22/07/24 21:49:27 INFO test.TestPage: Start - TestPage.goToButtonAdd
+22/07/24 21:49:28 INFO test.TestPage: End - TestPage.goToButtonAdd
+22/07/24 21:49:28 INFO test.TestPage: Start - TestPage.goToRegisterForm
+22/07/24 21:49:29 INFO test.TestPage: End - TestPage.goToRegisterForm
+22/07/24 21:49:29 INFO test.TestPage: Start - TestPage.goToWidgets
+22/07/24 21:49:29 INFO test.TestPage: Start - TestPage.goToDatePicker
+22/07/24 21:50:43 INFO test.TestPage: Start - TestPage.TestPage
+22/07/24 21:50:43 INFO test.TestPage: Path find
+22/07/24 21:50:45 INFO test.TestPage: CromeDriver Start..
+22/07/24 21:50:45 INFO test.TestPage: Start - TestPage.goToPage
+22/07/24 21:50:52 INFO test.TestPage: Start - TestPage.goToCarElements
+22/07/24 21:50:52 INFO test.TestPage: End - TestPage.goToCarElements
+22/07/24 21:50:52 INFO test.TestPage: Start - TestPage.goToWebTables
+22/07/24 21:50:53 INFO test.TestPage: End - TestPage.goToWebTables
+22/07/24 21:50:53 INFO test.TestPage: Start - TestPage.goToButtonAdd
+22/07/24 21:50:53 INFO test.TestPage: End - TestPage.goToButtonAdd
+22/07/24 21:50:53 INFO test.TestPage: Start - TestPage.goToRegisterForm
+22/07/24 21:50:54 INFO test.TestPage: End - TestPage.goToRegisterForm
+22/07/24 21:50:54 INFO test.TestPage: Start - TestPage.goToWidgets
+22/07/24 21:50:54 INFO test.TestPage: Start - TestPage.goToDatePicker
+22/07/24 21:50:55 INFO test.TestPage: End - TestPage.goToDatePicker
+22/07/24 21:50:55 INFO test.TestPage: End - TestPage.goToWidgets
+22/07/24 21:50:55 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:50:55 INFO test.TestPage: Start - TestPage.goToAlertFramWindows
+22/07/24 21:50:55 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:51:09 INFO test.TestPage: Start - TestPage.goToAlerts
+22/07/24 21:51:09 INFO test.TestPage: Test Success
+22/07/24 21:51:09 INFO test.TestPage: End - TestPage.goToPage
